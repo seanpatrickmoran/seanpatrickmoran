@@ -19,4 +19,5 @@ jobs:
           template: terminal
           filename: metrics.terminal.svg
           base: header, metadata
+          plugin_languages: yes
           token: ${{ secrets.METRICS_TOKEN }}
