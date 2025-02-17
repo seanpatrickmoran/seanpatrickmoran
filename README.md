@@ -1,4 +1,4 @@
-## Hello! 👋
+## Hello!!
 
 <p align="center"><img src="/metrics.terminal.svg" alt="Metrics" width="450"></p>
 
