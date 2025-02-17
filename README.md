@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-<p align="center"><img src="/metrics.terminal.svg" alt="Metrics" width="600"></p>
+<p align="center"><img src="/metrics.terminal.svg" alt="Metrics" width="450"></p>
 
 <!--
 **seanpatrickmoran/seanpatrickmoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
