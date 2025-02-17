@@ -21,5 +21,5 @@ jobs:
           base: header, metadata
           plugin_languages: yes
           plugin_languages_ignored: >-
-            jupyternotebook,
+            jupyter_notebook,
           token: ${{ secrets.METRICS_TOKEN }}
